@@ -5,11 +5,6 @@ CS undergrad who likes building things mostly distributed systems and GenAI apps
 
 ---
 
-**Stack I work with**
-TypeScript, JavaScript, Python, C++, SQL, React, Next.js, Tailwind, Node.js, Express, REST APIs, Microservices, PostgreSQL, MongoDB, MySQL, AWS, Docker, Git, CI/CD, OpenAI API, Gemini API, LangChain, RAG, ChromaDB, Semantic Search
-
----
-
 **What I've been doing**
 
 - SDE Intern @ GreyNext Software Consultancy (Jul 2026 – present)
