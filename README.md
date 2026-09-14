@@ -9,7 +9,7 @@ CS undergrad who likes building things mostly distributed systems and GenAI apps
 
 - SDE Intern @ GreyNext Software Consultancy (Jul 2026 – present)
 - SDE Intern @ Fujitsu Consulting India Private Limited (Jun – Aug 2026)
-- GenAI Engineer Intern @ FaxLab Technologies (May – Jul 2026)
+- AI Engineer Intern @ FaxLab Technologies (May – Jul 2026)
 - SDE Intern @ Starportal (Jun–Aug 2025)
 
 ---
