@@ -14,7 +14,7 @@ CS undergrad who likes building things mostly distributed systems and GenAI apps
 
 ---
 
-**The project I'm most proud of — [Beacon]([https://github.com/punyajain1/FinPilot-Backend-API](https://github.com/punyajain1/Beacon))**
+**The project I'm most proud of — [Beacon](https://github.com/punyajain1/Beacon)**
  
 An AI financial adviser API for crypto and precious metals, and the part I'm proud of isn't the LLM call it's what feeds it. Every recommendation runs through time based RAG that injects the latest news and live portfolio state straight into the prompt, so it's reasoning off what's true *right now*, not stale context. That's layered with FinBERT sentiment scored across multiple news sources, then qwen/qwen3.8-27b on Groq turns it into a buy/sell/hold call with a real confidence score and risk level attached recalculated automatically every 5 minutes, no manual trigger.
  
