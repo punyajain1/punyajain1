@@ -7,16 +7,16 @@ CS undergrad who likes building things mostly distributed systems and GenAI apps
 
 **What I've been doing**
 
-- SDE Intern @ GreyNext Software Consultancy (Jul 2026 – Sept 2026)
 - SDE Intern @ Fujitsu Consulting India Private Limited (Jun – Aug 2026)
+- SDE Intern @ GreyNext Software Consultancy (Jul 2026 – Sept 2026)
 - AI Engineer Intern @ FaxLab Technologies (May – Jul 2026)
 - SDE Intern @ Starportal (Jun–Aug 2025)
 
 ---
 
-**The project I'm most proud of — [FinPilot](https://github.com/punyajain1/FinPilot-Backend-API)**
+**The project I'm most proud of — [Beacon]([https://github.com/punyajain1/FinPilot-Backend-API](https://github.com/punyajain1/Beacon))**
  
-An AI financial adviser API for crypto and precious metals, and the part I'm proud of isn't the LLM call it's what feeds it. Every recommendation runs through time based RAG that injects the latest news and live portfolio state straight into the prompt, so it's reasoning off what's true *right now*, not stale context. That's layered with FinBERT sentiment scored across multiple news sources, then Llama-3.3-70B on Groq turns it into a buy/sell/hold call with a real confidence score and risk level attached recalculated automatically every 5 minutes, no manual trigger.
+An AI financial adviser API for crypto and precious metals, and the part I'm proud of isn't the LLM call it's what feeds it. Every recommendation runs through time based RAG that injects the latest news and live portfolio state straight into the prompt, so it's reasoning off what's true *right now*, not stale context. That's layered with FinBERT sentiment scored across multiple news sources, then qwen/qwen3.8-27b on Groq turns it into a buy/sell/hold call with a real confidence score and risk level attached recalculated automatically every 5 minutes, no manual trigger.
  
 It's a full layered backend (Express, Prisma, Postgres) with its own caching, SSE news streaming, and a chatbot that holds 10 turns of context grounded in your actual portfolio, not generic advice. Built it to work the way an actual adviser would — informed, current, and able to explain its reasoning.
 
